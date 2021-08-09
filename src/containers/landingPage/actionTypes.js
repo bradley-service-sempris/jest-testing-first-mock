@@ -1,0 +1,3 @@
+export const GET_KITTEN_PHOTO = 'landingPage/GET_KITTEN_PHOTO';
+export const GET_KITTEN_PHOTO_COMPLETED = 'landingPage/GET_KITTEN_PHOTO_COMPLETED';
+export const GET_KITTEN_PHOTO_FAILED = 'landingPage/GET_KITTEN_PHOTO_FAILED';
